@@ -14,7 +14,4 @@ The model uses a student dataset containing three main columns:
 * `iq`
 * `placement` (Target: 1 for Placed, 0 for Not Placed)
 
-## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/AapkaUsername/Placement-Prediction-Model.git](https://github.com/AapkaUsername/Placement-Prediction-Model.git)
+
